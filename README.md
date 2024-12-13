@@ -1,0 +1,1 @@
+The dataset used in this study was obtained from Qunar, a leading travel service platform in China. Qunar provides comprehensive travel-related data services, including hotel bookings, flight reservations, and scenic spot information. The selected data covers the time span of the first half of 2019, offering a rich and representative basis for subsequent analysis.
